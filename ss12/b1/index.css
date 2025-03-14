@@ -1,0 +1,15 @@
+.custom,
+.dropdown-menu {
+    background-color: rgb(255, 72, 0) !important;
+}
+
+.dropdown-item {
+    color: white !important;
+}
+
+.dropdown-item:hover{
+    background-color: blue;
+}
+.custom{
+    margin: 20px;
+}
